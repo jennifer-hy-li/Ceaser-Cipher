@@ -12,4 +12,4 @@ This program takes in your message and has the options to perform 3 functions.
   
 ## Screenshots
 ### Gameplay
-![Gameplay](https://github.com/jennifer-hy-li/Ceaser-Cipher/blob/main/Screen%20Shot%202021-08-16%20at%201.28.32%20PM.png)
+![Gameplay](https://github.com/jennifer-hy-li/Ceaser-Cipher/blob/main/Screen%20Shot%202021-08-16%20at%201.34.03%20PM.png)
